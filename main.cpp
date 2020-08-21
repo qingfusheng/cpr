@@ -11,5 +11,8 @@ int main(int argc, char** argv) {
     std::cout<<response.url;
     std::cout<<response.header["content-type"];
     std::cout<<response.status_code;
-    std::cout<<response.error.code;
+    if(response.error.code==cpr::ErrorCode::OK)
+        std::cout<<"OK";
+    else
+        std::cout<<"ERROR";
 }
