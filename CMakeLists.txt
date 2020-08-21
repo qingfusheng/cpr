@@ -29,14 +29,14 @@ option(${BUILD_SHARED_LIBS} "Build libraries as shared libraries" ON)
 message(STATUS "C++ Requests CMake Options")
 message(STATUS "=======================================================")
 cpr_option(USE_SYSTEM_CURL
-    "If ON, this project will look in the system paths for an installed curl library" OFF)
-cpr_option(BUILD_CPR_TESTS "Set to ON to build cpr tests." ON)
+    "If ON, this project will look in the system paths for an installed curl library" ON)
+cpr_option(BUILD_CPR_TESTS "Set to ON to build cpr tests." OFF)
 cpr_option(BUILD_CPR_TESTS_SSL "Set to ON to build cpr ssl tests" ${BUILD_CPR_TESTS})
 cpr_option(GENERATE_COVERAGE "Set to ON to generate coverage reports." OFF)
 cpr_option(CPR_CURL_NOSIGNAL "Set to ON to disable use of signals in libcurl." OFF)
 cpr_option(USE_SYSTEM_GTEST
     "If ON, this project will look in the system paths for an installed gtest library" OFF)
-cpr_option(USE_OPENSSL "Use OpenSSL code. Experimental" ON)
+cpr_option(USE_OPENSSL "Use OpenSSL code. Experimental" OFF)
 cpr_option(USE_WINSSL "Use WIN_SSL backend. Experimental" OFF)
 message(STATUS "=======================================================")
 
