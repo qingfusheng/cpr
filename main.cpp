@@ -5,7 +5,7 @@
 #include <string>
 
 int main(int argc, char** argv) {
-    Url url{"47.111.82.206" + "/url_post.html"};
+    Url url{"http://47.111.82.206:8080/VIID/System/Register"};
     Response response = cpr::Post(url, Payload{{"x", "5"}});
     std::cout<<response.text;
     std::cout<<response.url;
