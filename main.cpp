@@ -3,10 +3,10 @@
 #include <cstdio>
 #include <fstream>
 #include <string>
-
+#include "include/cpr/cpr.h"
 int main(int argc, char** argv) {
-    Url url{"http://47.111.82.206:8080/VIID/System/Register"};
-    Response response = cpr::Post(url, Payload{{"x", "5"}});
+    cpr::Url url{"http://47.111.82.206:8080/VIID/System/Register"};
+    cpr::Response response = cpr::Post(url, cpr::Payload{{"x", "5"}});
     std::cout<<response.text;
     std::cout<<response.url;
     std::cout<<response.header["content-type"];
