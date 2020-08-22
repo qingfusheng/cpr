@@ -7,7 +7,7 @@ std::string HttpServer::GetBaseUrl() {
 }
 
 uint16_t HttpServer::GetPort() {
-    return 8080;
+    return 8088;
 }
 
 mg_connection* HttpServer::initServer(mg_mgr* mgr,
