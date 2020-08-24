@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 }
 void Register()
 {
-    cpr::Url url{"http://47.111.82.206:8080/VIID/System/Register"};
+    cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     cpr::Response response = cpr::Post(url, cpr::Payload{{"x", "5"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
