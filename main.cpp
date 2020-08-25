@@ -4,7 +4,7 @@
 #include <cstdio>
 #include <fstream>
 #include <string>
-#include "cpr/cpr.h"
+#include "include/cpr/cpr.h"
 void Register();
 int main(int argc, char** argv) {
 	while(1){
@@ -15,7 +15,9 @@ int main(int argc, char** argv) {
 void Register()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
-    cpr::Response response = cpr::Post(url, cpr::Payload{{"x", "5"}});
+    cpr::Response response = cpr::Post(url, 
+                             cpr::Payload{{"x", "5"}},
+                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;

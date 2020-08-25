@@ -1,5 +1,553 @@
-root@qingfusheng-VirtualBox:~/git/testing/new2# g++ main.cpp libcpr.a -o output -lcurl
-root@qingfusheng-VirtualBox:~/git/testing/new2# ./output
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
 <!DOCTYPE html>
 <html>
 <head>
@@ -572,210 +1120,6 @@ http://47.111.82.206:8088/VIID/System/Register
 text/html
 502
 OK
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Error</title>
-<style>
-    body {
-        width: 35em;
-        margin: 0 auto;
-        font-family: Tahoma, Verdana, Arial, sans-serif;
-    }
-</style>
-</head>
-<body>
-<h1>An error occurred.</h1>
-<p>Sorry, the page you are looking for is currently unavailable.<br/>
-Please try again later.</p>
-<p>If you are the system administrator of this resource then you should check
-the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
-<p><em>Faithfully yours, nginx.</em></p>
-</body>
-</html>
-
-http://47.111.82.206:8088/VIID/System/Register
-text/html
-502
-OK
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -879,5 +1223,2153 @@ the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
 http://47.111.82.206:8088/VIID/System/Register
 text/html
 502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>An error occurred.</h1>
+<p>Sorry, the page you are looking for is currently unavailable.<br/>
+Please try again later.</p>
+<p>If you are the system administrator of this resource then you should check
+the <a href="http://nginx.org/r/error_log">error log</a> for details.</p>
+<p><em>Faithfully yours, nginx.</em></p>
+</body>
+</html>
+
+http://47.111.82.206:8088/VIID/System/Register
+text/html
+502
+OK
+{"timestamp":1598345410363,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345411548,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345412692,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345413827,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345414962,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345416102,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345417238,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345418371,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345419508,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345420646,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345421811,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345422958,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345424132,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345425294,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345426455,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345427614,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345428763,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345429916,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345431059,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345432185,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345433324,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345434471,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345435619,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345436760,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345437906,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345439052,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345440197,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345441345,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345442490,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345443632,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345444775,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345445912,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345447062,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345448208,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345449350,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345450492,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345451638,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345452782,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345453919,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345455056,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345456192,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345457332,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345458475,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345459623,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345460764,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345461891,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345463021,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345464152,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345465292,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345466437,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345467582,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345468727,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345469870,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345471012,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345472151,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345473285,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345474416,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345475547,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345476672,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345477811,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345478952,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345480083,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345481213,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345482342,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345483480,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345484623,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345485761,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345486891,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345488029,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345489177,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345490319,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345491464,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345492613,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345493758,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345494887,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345496017,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345497165,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345498309,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345499441,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345500568,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345501701,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345502853,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345503998,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345505134,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345506271,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345507410,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345508545,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345509686,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345510831,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345511971,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345513103,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345514233,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345515370,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345516510,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345517642,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345518784,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345519933,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345521081,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345522223,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345523368,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345524505,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345525639,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345526777,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345527912,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345529051,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345530198,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345531343,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345532490,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345533631,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345534757,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345535890,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345537024,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345538150,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345539283,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345540425,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345541575,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345542711,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345543840,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345544979,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345546108,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345547236,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345548373,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345549510,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345550640,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345551775,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345552920,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345554055,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345555193,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345556339,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345557483,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345558617,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345559749,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345560887,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345562029,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345563169,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345564302,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345565439,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345566575,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345567697,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345568828,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345569964,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345571103,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345572245,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345573401,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345574543,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345575678,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345576820,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345577959,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345579092,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345580227,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345581358,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345582492,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345583632,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345584769,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345585914,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345587055,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345588191,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345589327,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345590468,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345591602,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345592735,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345593878,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345595014,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345596149,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345597287,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345598416,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345599554,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345600693,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345601836,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345602979,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345604120,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345605254,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345606382,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345607515,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345608639,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345609773,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345610908,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345612037,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345613180,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345614324,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345615460,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345616592,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345617720,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345618856,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345619994,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345621124,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345622246,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345623377,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345624515,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345625652,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345626792,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345627936,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345629072,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345630207,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345631353,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345632504,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345633644,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345634778,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345635904,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345637034,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345638177,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345639317,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345640452,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345641591,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345642726,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345643859,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345644992,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345646134,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345647264,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345648397,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345649531,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345650670,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345651832,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345652994,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345654157,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345655292,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345656428,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345657563,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345658700,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345659835,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345660971,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345662109,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345663237,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345664371,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345665507,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345666644,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345667784,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345668927,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345670067,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345671214,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345672352,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345673485,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345674613,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345675758,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345676891,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345678032,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345679180,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345680323,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345681460,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345682599,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345683746,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345684893,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345686042,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345687172,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345688294,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345689427,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345690564,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345691703,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345692841,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345693977,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345695117,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345696256,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345697392,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345698551,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345699708,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345700846,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345701968,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345703088,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345704216,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345705351,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345706494,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345707627,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345708756,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345709885,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345711012,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345712146,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345713284,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345714426,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345715564,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345716701,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345717847,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345718990,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345720140,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345721300,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345722444,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345723621,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345724780,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345725941,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345727087,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345728225,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345729364,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345730502,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345731637,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345732776,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345733907,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345735047,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345736191,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345737333,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345738469,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345739602,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345740736,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345741872,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345743015,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345744154,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345745290,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345746429,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345747563,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345748691,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345749830,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345750965,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345752111,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345753246,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345754382,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345755516,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345756642,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345757774,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345758907,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345760040,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345761186,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345762343,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345763480,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345764623,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345765762,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345766890,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345768014,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345769146,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345770264,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345771396,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345772535,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345773676,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345774816,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345775957,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345777098,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345778230,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345779362,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345780499,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345781632,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345782762,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345783894,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345785036,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345786173,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345787307,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345788442,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345789575,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+^A{"timestamp":1598345790707,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
+OK
+{"timestamp":1598345791843,"status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'x': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'x': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 3]","path":"/VIID/System/Register"}
+http://47.111.82.206:8088/VIID/System/Register
+application/json;charset=UTF-8
+400
 OK
 
