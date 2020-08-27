@@ -117,7 +117,7 @@ void Register6()
 }
 void Register7()
 {
-    cpr::Url url{"http://%s/VIID/ImageServer?DeviceID=%s"};
+    cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer?DeviceID=47.111.82.206:8088"};
     cpr::Response response = cpr::Post(url, 
                              cpr::Payload{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -132,7 +132,7 @@ void Register7()
 }
 void Register8()
 {
-    cpr::Url url{"http://%s:%d/VIID/Images"};
+    cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     cpr::Response response = cpr::Post(url, 
                              cpr::Payload{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
