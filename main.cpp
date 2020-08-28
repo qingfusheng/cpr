@@ -9,7 +9,7 @@ void Register1();
 void Register2();
 void Register3();
 void Register4();
-void Register5();
+/*void Register5();*/
 void Register6();
 void Register7();
 void Register8();
@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 		Register2();sleep(1);
 		Register3();sleep(1);
 		Register4();sleep(1);
-		Register5();sleep(1);
+		/*Register5();sleep(1);*/
 		Register6();sleep(1);
 		Register7();sleep(1);
 		Register8();sleep(1);
@@ -85,11 +85,11 @@ void Register4()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register5()
+/*void Register5()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/Persons"};
     cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+                             cpr::Body{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -99,7 +99,7 @@ void Register5()
         std::cout<<"OK"<<std::endl;
     else
         std::cout<<"ERROR"<<std::endl;
-}
+}*/
 void Register6()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
@@ -118,7 +118,7 @@ void Register6()
 void Register7()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer?DeviceID=47.111.82.206:8088"};
-    cpr::Response response = cpr::Post(url, 
+    cpr::Response response = cpr::Get(url, 
                              cpr::Payload{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
