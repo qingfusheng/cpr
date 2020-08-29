@@ -29,7 +29,8 @@ void Register1()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+                            /* cpr::Payload{{"x", "5"}},*/
+                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":""2.0}}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -59,7 +60,8 @@ void Register3()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
     cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+                            /* cpr::Payload{{"x", "5"}},*/
+                             cpr::Body{{"KeepaliveObject":{"DeviceID":"31000000001310910561"}}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -117,9 +119,9 @@ void Register6()
 }
 void Register7()
 {
-    cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer?DeviceID=47.111.82.206:8088"};
+    cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
     cpr::Response response = cpr::Get(url, 
-                             cpr::Payload{{"x", "5"}},
+                             cpr::Parameters{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -134,7 +136,8 @@ void Register8()
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+                            /* cpr::Payload{{"x", "5"}},*/
+                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":""2.0}}}
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
