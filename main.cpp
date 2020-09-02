@@ -30,7 +30,7 @@ void Register1()
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     cpr::Response response = cpr::Post(url, 
                             /* cpr::Payload{{"x", "5"}},*/
-                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":""2.0}}},
+                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":"2.0"}}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -137,7 +137,7 @@ void Register8()
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     cpr::Response response = cpr::Post(url, 
                             /* cpr::Payload{{"x", "5"}},*/
-                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":""2.0}}}
+                             cpr::Body{{"RegisterObject":{"DeviceID":"31000000001310910561","ProtocolVersion":"2.0"}}}
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
