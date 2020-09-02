@@ -1,0 +1,1115 @@
+root@qingfusheng-VirtualBox:~# netstat nap|more
+激活Internet连接 (w/o 服务器)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 qingfusheng-Virtu:40852 47.111.82.206:omniorb   TIME_WAIT  
+tcp        0      0 qingfusheng-Virtu:40854 47.111.82.206:omniorb   TIME_WAIT  
+tcp        0      0 qingfusheng-Virtu:49926 101.6.8.193:http        TIME_WAIT  
+tcp        0      0 qingfusheng-Virtu:40850 47.111.82.206:omniorb   TIME_WAIT  
+tcp        0      0 qingfusheng-Virtu:36726 api.snapcraft.io:https  ESTABLISHED
+tcp        0      0 qingfusheng-Virtu:32844 5.85.222.35.bc.goo:http TIME_WAIT  
+活跃的UNIX域套接字 (w/o 服务器)
+Proto RefCnt Flags       Type       State         I-Node   路径
+unix  2      [ ]         数据报                24376    /run/user/1000/systemd/n
+otify
+unix  2      [ ]         数据报                21231    /run/user/121/systemd/no
+tify
+unix  3      [ ]         数据报                13182    /run/systemd/notify
+unix  8      [ ]         数据报                13197    /run/systemd/journal/soc
+ket
+unix  2      [ ]         数据报                13202    /run/systemd/journal/sys
+log
+unix  23     [ ]         数据报                13306    /run/systemd/journal/dev
+-log
+unix  3      [ ]         流        已连接     33671    
+unix  3      [ ]         流        已连接     33645    
+unix  3      [ ]         流        已连接     28201    
+unix  3      [ ]         流        已连接     26593    
+unix  3      [ ]         流        已连接     24752    
+unix  3      [ ]         流        已连接     23071    /run/user/121/bus
+unix  3      [ ]         流        已连接     22755    
+unix  3      [ ]         流        已连接     33672    @/dbus-vfs-daemon/socket-
+A0xMM44v
+unix  3      [ ]         流        已连接     31500    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24905    
+unix  3      [ ]         流        已连接     23034    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     16827    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27971    
+unix  3      [ ]         流        已连接     25430    
+unix  3      [ ]         流        已连接     24473    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     19415    
+unix  3      [ ]         流        已连接     28525    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26843    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     33646    /run/user/1000/bus
+unix  3      [ ]         流        已连接     28200    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     26591    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24591    
+unix  3      [ ]         流        已连接     23070    
+unix  3      [ ]         流        已连接     22756    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     31502    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25164    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23033    
+unix  3      [ ]         流        已连接     20986    
+unix  3      [ ]         流        已连接     27972    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25432    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21034    
+unix  3      [ ]         流        已连接     28291    
+unix  3      [ ]         流        已连接     26781    
+unix  3      [ ]         流        已连接     25368    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     33643    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     28195    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     26594    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25165    
+unix  3      [ ]         流        已连接     24720    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     24441    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23091    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22760    
+unix  2      [ ]         数据报                31090    
+unix  3      [ ]         流        已连接     24906    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23035    
+unix  3      [ ]         流        已连接     20987    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31572    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     25436    
+unix  3      [ ]         流        已连接     24592    /run/user/1000/bus
+unix  3      [ ]         流        已连接     19416    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     28537    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26782    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     25315    
+unix  2      [ ]         数据报                34142    
+unix  3      [ ]         流        已连接     33642    
+unix  3      [ ]         流        已连接     28199    
+unix  3      [ ]         流        已连接     26614    
+unix  3      [ ]         流        已连接     25166    /run/user/1000/bus
+unix  3      [ ]         流        已连接     24719    
+unix  3      [ ]         流        已连接     23090    
+unix  2      [ ]         数据报                22759    
+unix  3      [ ]         流        已连接     31285    
+unix  3      [ ]         流        已连接     28911    
+unix  3      [ ]         流        已连接     25163    
+unix  3      [ ]         流        已连接     23036    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25437    /run/user/1000/bus
+unix  3      [ ]         流        已连接     24472    
+unix  3      [ ]         流        已连接     19178    
+unix  3      [ ]         流        已连接     28536    
+unix  3      [ ]         流        已连接     26839    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25316    /run/user/1000/bus
+unix  3      [ ]         流        已连接     33655    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     28194    
+unix  3      [ ]         流        已连接     26568    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25189    /run/user/1000/bus
+unix  3      [ ]         流        已连接     24735    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     23092    
+unix  3      [ ]         流        已连接     22772    
+unix  3      [ ]         流        已连接     31286    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27578    
+unix  3      [ ]         流        已连接     24904    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     23008    
+unix  3      [ ]         流        已连接     27874    @/dbus-vfs-daemon/socket-
+LhUKfoDM
+unix  3      [ ]         流        已连接     25479    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24509    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     19281    
+unix  3      [ ]         数据报                13183    
+unix  3      [ ]         流        已连接     28237    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26764    
+unix  3      [ ]         流        已连接     25357    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     33654    
+unix  3      [ ]         流        已连接     28192    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26588    
+unix  3      [ ]         流        已连接     25188    
+unix  3      [ ]         流        已连接     24734    
+unix  3      [ ]         流        已连接     24440    
+unix  3      [ ]         流        已连接     23093    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     22770    @/tmp/.ICE-unix/981
+unix  3      [ ]         流        已连接     31620    
+unix  3      [ ]         流        已连接     31287    
+unix  3      [ ]         流        已连接     24903    
+unix  3      [ ]         流        已连接     23009    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     27260    
+unix  3      [ ]         流        已连接     25478    
+unix  3      [ ]         流        已连接     24532    
+unix  3      [ ]         流        已连接     19179    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         数据报                13184    
+unix  2      [ ]         数据报                31545    
+unix  2      [ ]         数据报                28277    
+unix  3      [ ]         流        已连接     26824    
+unix  3      [ ]         流        已连接     33648    
+unix  3      [ ]         流        已连接     28203    
+unix  3      [ ]         流        已连接     26589    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24743    
+unix  3      [ ]         流        已连接     24470    
+unix  3      [ ]         流        已连接     23069    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     22773    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31501    
+unix  3      [ ]         流        已连接     28912    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27583    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24902    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     23011    
+unix  3      [ ]         流        已连接     27176    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     25429    
+unix  3      [ ]         流        已连接     24508    
+unix  3      [ ]         流        已连接     21025    
+unix  3      [ ]         流        已连接     28524    
+unix  3      [ ]         流        已连接     26825    
+unix  3      [ ]         流        已连接     25352    
+unix  3      [ ]         流        已连接     33649    @/tmp/.X11-unix/X0
+unix  2      [ ]         数据报                31890    
+unix  3      [ ]         流        已连接     28202    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26590    
+unix  3      [ ]         流        已连接     24744    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     24471    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23068    
+unix  3      [ ]         流        已连接     22623    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31621    /run/user/1000/pulse/nati
+ve
+unix  3      [ ]         流        已连接     31499    
+unix  3      [ ]         流        已连接     24901    
+unix  3      [ ]         流        已连接     23012    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     16826    
+unix  3      [ ]         流        已连接     31571    
+unix  3      [ ]         流        已连接     25431    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     19282    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     28292    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     26765    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25367    
+unix  3      [ ]         流        已连接     25719    /run/user/1000/bus
+unix  3      [ ]         流        已连接     17633    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27136    
+unix  3      [ ]         流        已连接     26647    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     26383    
+unix  3      [ ]         流        已连接     22982    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21711    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     22937    
+unix  3      [ ]         流        已连接     31293    
+unix  3      [ ]         流        已连接     23128    /run/user/121/bus
+unix  3      [ ]         流        已连接     25718    
+unix  3      [ ]         流        已连接     17171    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27109    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26646    
+unix  3      [ ]         流        已连接     26362    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22983    
+unix  3      [ ]         流        已连接     21709    
+unix  3      [ ]         流        已连接     22935    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23147    
+unix  3      [ ]         数据报                14736    
+unix  2      [ ]         数据报                25708    
+unix  3      [ ]         流        已连接     17169    
+unix  3      [ ]         流        已连接     27153    
+unix  3      [ ]         流        已连接     26687    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26361    
+unix  3      [ ]         流        已连接     23007    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21710    
+unix  3      [ ]         流        已连接     22938    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     31290    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23153    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     28001    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     17104    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27137    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26686    
+unix  3      [ ]         流        已连接     26359    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22981    
+unix  3      [ ]         流        已连接     21672    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22958    
+unix  3      [ ]         流        已连接     23127    
+unix  3      [ ]         流        已连接     27999    /run/user/1000/bus
+unix  3      [ ]         流        已连接     17103    
+unix  3      [ ]         流        已连接     31544    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     26685    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26358    
+unix  3      [ ]         流        已连接     22987    /run/user/121/bus
+unix  3      [ ]         流        已连接     21677    
+unix  3      [ ]         流        已连接     22959    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     31294    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23150    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28000    
+unix  3      [ ]         流        已连接     17259    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31543    
+unix  3      [ ]         流        已连接     26684    
+unix  3      [ ]         流        已连接     26337    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23006    
+unix  3      [ ]         流        已连接     21678    /run/user/121/bus
+unix  3      [ ]         流        已连接     22960    
+unix  3      [ ]         数据报                21232    
+unix  3      [ ]         流        已连接     31289    
+unix  3      [ ]         流        已连接     23152    
+unix  3      [ ]         流        已连接     15300    
+unix  3      [ ]         流        已连接     27998    
+unix  3      [ ]         流        已连接     17632    
+unix  3      [ ]         流        已连接     27108    
+unix  3      [ ]         流        已连接     26682    
+unix  3      [ ]         流        已连接     26384    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22986    
+unix  3      [ ]         流        已连接     22961    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         数据报                21233    
+unix  3      [ ]         流        已连接     31288    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23149    
+unix  3      [ ]         流        已连接     27975    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     17173    
+unix  2      [ ]         数据报                27106    
+unix  3      [ ]         流        已连接     26683    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26385    
+unix  3      [ ]         流        已连接     22984    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21705    
+unix  3      [ ]         流        已连接     22934    
+unix  3      [ ]         流        已连接     23148    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     15305    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26186    /run/user/1000/bus
+unix  2      [ ]         数据报                23568    
+unix  3      [ ]         流        已连接     23292    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23242    
+unix  3      [ ]         流        已连接     19522    
+unix  3      [ ]         流        已连接     18100    
+unix  3      [ ]         流        已连接     16259    
+unix  3      [ ]         流        已连接     22322    
+unix  3      [ ]         流        已连接     26282    
+unix  2      [ ]         数据报                25250    
+unix  3      [ ]         流        已连接     22887    
+unix  3      [ ]         流        已连接     26806    
+unix  3      [ ]         流        已连接     26492    
+unix  3      [ ]         流        已连接     26440    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23528    /run/user/121/bus
+unix  3      [ ]         流        已连接     21580    
+unix  3      [ ]         数据报                24378    
+unix  3      [ ]         流        已连接     23291    
+unix  3      [ ]         流        已连接     23240    /run/user/121/bus
+unix  3      [ ]         流        已连接     19523    /var/run/dbus/system_bus_
+socket
+unix  2      [ ]         数据报                17903    
+unix  3      [ ]         流        已连接     16260    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24864    
+unix  3      [ ]         流        已连接     22321    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26261    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25248    
+unix  3      [ ]         流        已连接     22933    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26841    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     26463    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26460    
+unix  3      [ ]         流        已连接     23527    
+unix  3      [ ]         流        已连接     21579    
+unix  3      [ ]         流        已连接     27579    
+unix  2      [ ]         数据报                23616    
+unix  3      [ ]         流        已连接     23494    
+unix  3      [ ]         流        已连接     23304    
+unix  3      [ ]         流        已连接     17799    /var/run/dbus/system_bus_
+socket
+unix  2      [ ]         数据报                13988    
+unix  3      [ ]         流        已连接     24945    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     22278    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     26288    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25269    
+unix  3      [ ]         流        已连接     22932    
+unix  2      [ ]         数据报                26794    
+unix  3      [ ]         流        已连接     26464    
+unix  3      [ ]         流        已连接     26439    
+unix  3      [ ]         流        已连接     23277    
+unix  3      [ ]         流        已连接     26210    
+unix  3      [ ]         流        已连接     23536    
+unix  3      [ ]         流        已连接     23239    
+unix  3      [ ]         流        已连接     18098    
+unix  3      [ ]         流        已连接     17798    
+unix  2      [ ]         数据报                16475    
+unix  3      [ ]         流        已连接     22320    
+unix  3      [ ]         流        已连接     26308    
+unix  3      [ ]         流        已连接     25270    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     22911    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26804    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26617    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26465    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23278    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26212    
+unix  3      [ ]         流        已连接     23614    
+unix  3      [ ]         流        已连接     23495    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     23285    
+unix  2      [ ]         流        已连接     18486    
+unix  3      [ ]         流        已连接     18099    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     14063    
+unix  3      [ ]         流        已连接     24944    
+unix  3      [ ]         流        已连接     22277    
+unix  3      [ ]         流        已连接     31895    
+unix  3      [ ]         流        已连接     26287    
+unix  3      [ ]         流        已连接     22910    
+unix  3      [ ]         流        已连接     26784    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26616    
+unix  3      [ ]         流        已连接     26567    
+unix  3      [ ]         流        已连接     21542    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26211    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23615    @/tmp/dbus-rRIqQKcM
+unix  3      [ ]         流        已连接     23286    /run/user/121/bus
+unix  3      [ ]         流        已连接     23250    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     17924    
+unix  2      [ ]         数据报                17706    
+unix  3      [ ]         流        已连接     14064    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24946    
+unix  3      [ ]         流        已连接     22275    /run/user/121/bus
+unix  2      [ ]         数据报                31963    
+unix  3      [ ]         流        已连接     26285    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22909    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26803    
+unix  3      [ ]         流        已连接     26639    
+unix  3      [ ]         流        已连接     26562    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21541    
+unix  3      [ ]         流        已连接     27584    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26183    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23290    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     23249    
+unix  3      [ ]         流        已连接     17717    /var/run/dbus/system_bus_
+socket
+unix  2      [ ]         数据报                14125    
+unix  3      [ ]         流        已连接     24863    
+unix  3      [ ]         流        已连接     22274    
+unix  3      [ ]         流        已连接     31896    @/tmp/.ICE-unix/1197
+unix  3      [ ]         流        已连接     26284    
+unix  3      [ ]         流        已连接     22888    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26783    
+unix  3      [ ]         流        已连接     26490    
+unix  3      [ ]         流        已连接     26461    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23275    /run/user/121/bus
+unix  3      [ ]         流        已连接     21539    
+unix  3      [ ]         流        已连接     26185    
+unix  3      [ ]         流        已连接     23289    
+unix  3      [ ]         流        已连接     23243    /run/user/121/bus
+unix  3      [ ]         流        已连接     21010    
+unix  3      [ ]         流        已连接     17925    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     17716    
+unix  3      [ ]         流        已连接     24947    /run/user/1000/bus
+unix  3      [ ]         流        已连接     22272    /run/user/121/bus
+unix  3      [ ]         流        已连接     26283    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25249    /run/user/1000/bus
+unix  3      [ ]         流        已连接     22908    
+unix  3      [ ]         流        已连接     26807    
+unix  3      [ ]         流        已连接     26491    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26462    
+unix  3      [ ]         流        已连接     23274    
+unix  3      [ ]         流        已连接     21540    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26386    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                17174    
+unix  3      [ ]         流        已连接     27074    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26900    
+unix  3      [ ]         流        已连接     24825    
+unix  2      [ ]         数据报                22611    
+unix  3      [ ]         流        已连接     21424    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26389    
+unix  2      [ ]         数据报                17210    
+unix  3      [ ]         流        已连接     27073    
+unix  3      [ ]         流        已连接     26901    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31527    
+unix  3      [ ]         流        已连接     22622    
+unix  3      [ ]         流        已连接     21425    
+unix  3      [ ]         流        已连接     27024    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     17260    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     31560    
+unix  3      [ ]         流        已连接     26929    
+unix  3      [ ]         流        已连接     31525    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     24342    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21426    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26390    /run/user/1000/bus
+unix  3      [ ]         流        已连接     17209    
+unix  3      [ ]         流        已连接     27262    
+unix  3      [ ]         流        已连接     27167    @/dbus-vfs-daemon/socket-
+0N6yLlUk
+unix  3      [ ]         流        已连接     31524    
+unix  2      [ ]         数据报                22612    
+unix  3      [ ]         流        已连接     21432    
+unix  3      [ ]         流        已连接     27154    /run/user/1000/bus
+unix  3      [ ]         流        已连接     19401    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27079    /run/user/1000/bus
+unix  2      [ ]         数据报                26906    
+unix  3      [ ]         流        已连接     22604    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21435    
+unix  3      [ ]         流        已连接     27023    
+unix  3      [ ]         流        已连接     17205    
+unix  3      [ ]         流        已连接     27166    
+unix  3      [ ]         流        已连接     27077    
+unix  3      [ ]         流        已连接     24831    
+unix  3      [ ]         流        已连接     24333    
+unix  3      [ ]         流        已连接     21433    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26615    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                17188    
+unix  3      [ ]         流        已连接     27075    
+unix  3      [ ]         流        已连接     26902    
+unix  3      [ ]         流        已连接     24832    /run/user/1000/bus
+unix  3      [ ]         流        已连接     22602    
+unix  3      [ ]         流        已连接     21436    /run/user/121/bus
+unix  3      [ ]         流        已连接     27169    
+unix  3      [ ]         流        已连接     17204    
+unix  3      [ ]         流        已连接     27076    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26903    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     24827    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24129    @/tmp/dbus-kkJ8xBgA
+unix  3      [ ]         流        已连接     21423    
+unix  3      [ ]         流        已连接     28236    
+unix  3      [ ]         流        已连接     28162    
+unix  2      [ ]         数据报                26774    
+unix  3      [ ]         流        已连接     25487    
+unix  3      [ ]         流        已连接     26833    
+unix  3      [ ]         流        已连接     25416    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     23236    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22271    
+unix  3      [ ]         流        已连接     21623    
+unix  3      [ ]         流        已连接     16053    
+unix  3      [ ]         流        已连接     27531    
+unix  3      [ ]         流        已连接     26335    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                23695    
+unix  3      [ ]         流        已连接     23523    
+unix  3      [ ]         流        已连接     23176    
+unix  3      [ ]         流        已连接     26972    @/tmp/.ICE-unix/1197
+unix  3      [ ]         流        已连接     26835    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25725    
+unix  3      [ ]         流        已连接     24124    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23490    
+unix  3      [ ]         流        已连接     21011    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     31540    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     28130    
+unix  3      [ ]         流        已连接     25489    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26834    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     25415    
+unix  3      [ ]         流        已连接     23235    
+unix  3      [ ]         流        已连接     22262    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21624    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     17257    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27440    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     26336    
+unix  2      [ ]         数据报                23530    
+unix  3      [ ]         流        已连接     23175    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     31561    /run/user/1000/pulse/nati
+ve
+unix  3      [ ]         流        已连接     26879    
+unix  3      [ ]         流        已连接     25724    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24122    
+unix  3      [ ]         流        已连接     23323    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     17561    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28212    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     28163    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26775    
+unix  3      [ ]         流        已连接     26830    
+unix  3      [ ]         流        已连接     25412    
+unix  3      [ ]         流        已连接     23232    
+unix  3      [ ]         流        已连接     22270    @/tmp/dbus-rRIqQKcM
+unix  2      [ ]         数据报                27443    
+unix  3      [ ]         流        已连接     26309    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23516    
+unix  3      [ ]         流        已连接     23177    /run/user/121/bus
+unix  3      [ ]         流        已连接     28009    @/dbus-vfs-daemon/socket-
+eDwCP4o4
+unix  3      [ ]         流        已连接     27602    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26971    
+unix  3      [ ]         流        已连接     26808    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     24123    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23322    
+unix  2      [ ]         数据报                33663    
+unix  3      [ ]         流        已连接     31539    
+unix  3      [ ]         流        已连接     28131    @/dbus-vfs-daemon/socket-
+Z17h3kVY
+unix  3      [ ]         流        已连接     26776    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26831    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25413    /run/user/1000/bus
+unix  2      [ ]         数据报                24353    
+unix  3      [ ]         流        已连接     23233    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     22269    
+unix  3      [ ]         流        已连接     27530    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26310    
+unix  2      [ ]         数据报                24340    
+unix  2      [ ]         数据报                23503    
+unix  3      [ ]         流        已连接     23178    
+unix  3      [ ]         流        已连接     27022    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26741    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25723    
+unix  3      [ ]         流        已连接     24121    
+unix  3      [ ]         流        已连接     23317    /run/user/121/bus
+unix  3      [ ]         流        已连接     17412    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28211    
+unix  3      [ ]         流        已连接     28165    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26826    
+unix  3      [ ]         流        已连接     25481    
+unix  3      [ ]         流        已连接     26829    
+unix  3      [ ]         流        已连接     25411    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23231    /run/user/121/bus
+unix  3      [ ]         流        已连接     22267    
+unix  3      [ ]         流        已连接     21671    
+unix  3      [ ]         数据报                14737    
+unix  3      [ ]         流        已连接     27457    
+unix  3      [ ]         流        已连接     26312    
+unix  3      [ ]         流        已连接     23677    @/tmp/dbus-rRIqQKcM
+unix  3      [ ]         流        已连接     23514    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23179    /run/user/121/bus
+unix  3      [ ]         流        已连接     27873    
+unix  3      [ ]         流        已连接     27532    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26739    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23316    
+unix  3      [ ]         流        已连接     17331    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28208    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     28164    
+unix  3      [ ]         流        已连接     26845    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25482    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26847    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     25410    
+unix  3      [ ]         流        已连接     23230    
+unix  3      [ ]         流        已连接     22268    @/tmp/dbus-rRIqQKcM
+unix  2      [ ]         流        已连接     21581    
+unix  3      [ ]         流        已连接     27529    
+unix  3      [ ]         流        已连接     26311    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                24155    
+unix  3      [ ]         流        已连接     23513    
+unix  3      [ ]         流        已连接     23172    
+unix  3      [ ]         流        已连接     27021    
+unix  3      [ ]         流        已连接     26740    
+unix  3      [ ]         流        已连接     25732    /var/run/dbus/system_bus_
+socket
+unix  2      [ ]         数据报                23313    
+unix  3      [ ]         流        已连接     17411    
+unix  3      [ ]         流        已连接     28207    
+unix  3      [ ]         流        已连接     28190    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26780    
+unix  3      [ ]         流        已连接     25488    
+unix  3      [ ]         流        已连接     26827    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25370    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23238    /run/user/121/bus
+unix  3      [ ]         流        已连接     22261    
+unix  3      [ ]         流        已连接     21629    
+unix  3      [ ]         流        已连接     27458    @/dbus-vfs-daemon/socket-
+wthLMw5r
+unix  3      [ ]         流        已连接     26313    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23731    @/tmp/dbus-YVlEhBBu
+unix  3      [ ]         流        已连接     23517    /run/user/121/pulse/nativ
+e
+unix  3      [ ]         流        已连接     23173    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27170    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     26877    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     25731    
+unix  3      [ ]         流        已连接     23491    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     19400    
+unix  3      [ ]         流        已连接     17560    
+unix  3      [ ]         流        已连接     28204    /run/user/1000/bus
+unix  3      [ ]         流        已连接     28189    
+unix  2      [ ]         流        已连接     26772    
+unix  3      [ ]         流        已连接     25490    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26876    
+unix  3      [ ]         流        已连接     25369    
+unix  3      [ ]         流        已连接     23237    
+unix  3      [ ]         流        已连接     22263    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21630    /run/user/121/bus
+unix  2      [ ]         数据报                15322    
+unix  2      [ ]         数据报                27463    
+unix  3      [ ]         流        已连接     26334    
+unix  3      [ ]         流        已连接     23730    
+unix  3      [ ]         流        已连接     23524    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     23174    
+unix  3      [ ]         流        已连接     27175    
+unix  3      [ ]         流        已连接     26738    
+unix  3      [ ]         流        已连接     25726    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23305    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     18582    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     17329    
+unix  3      [ ]         流        已连接     31528    /run/user/1000/bus
+unix  3      [ ]         流        已连接     28914    
+unix  3      [ ]         流        已连接     26882    
+unix  3      [ ]         流        已连接     25361    
+unix  3      [ ]         流        已连接     21730    @/tmp/dbus-PtVamB2DcL
+unix  2      [ ]         流        已连接     18278    
+unix  3      [ ]         流        已连接     27375    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26711    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26087    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25423    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23201    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22818    
+unix  3      [ ]         流        已连接     26506    /run/user/1000/bus
+unix  3      [ ]         流        已连接     24590    
+unix  3      [ ]         流        已连接     23061    
+unix  3      [ ]         流        已连接     28922    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26930    /run/user/1000/pulse/nati
+ve
+unix  3      [ ]         流        已连接     25360    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     21729    
+unix  3      [ ]         流        已连接     17823    
+unix  3      [ ]         流        已连接     27376    
+unix  3      [ ]         流        已连接     26710    
+unix  3      [ ]         流        已连接     26182    
+unix  3      [ ]         流        已连接     25424    
+unix  3      [ ]         流        已连接     23202    
+unix  3      [ ]         流        已连接     22819    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     19022    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26708    
+unix  3      [ ]         流        已连接     24537    
+unix  3      [ ]         流        已连接     23095    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     29015    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     26889    
+unix  3      [ ]         流        已连接     25362    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25107    
+unix  3      [ ]         流        已连接     21731    
+unix  3      [ ]         流        已连接     27436    
+unix  3      [ ]         流        已连接     26642    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26140    
+unix  3      [ ]         流        已连接     25422    
+unix  3      [ ]         流        已连接     23200    
+unix  3      [ ]         流        已连接     22798    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26561    
+unix  3      [ ]         流        已连接     24574    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23094    
+unix  3      [ ]         流        已连接     28915    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     26888    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     25363    
+unix  3      [ ]         流        已连接     25108    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21732    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     21026    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27377    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26713    
+unix  3      [ ]         流        已连接     26141    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25421    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     23229    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22797    
+unix  2      [ ]         数据报                19024    
+unix  3      [ ]         流        已连接     26505    
+unix  2      [ ]         数据报                24583    
+unix  3      [ ]         流        已连接     23038    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     29014    
+unix  3      [ ]         流        已连接     26887    
+unix  3      [ ]         流        已连接     25364    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25105    
+unix  3      [ ]         流        已连接     22015    /run/user/121/pulse/nativ
+e
+unix  3      [ ]         流        已连接     17838    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27439    
+unix  3      [ ]         流        已连接     26557    
+unix  3      [ ]         流        已连接     26139    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25734    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23206    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22795    
+unix  3      [ ]         流        已连接     26496    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24593    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23037    
+unix  3      [ ]         流        已连接     28919    
+unix  3      [ ]         流        已连接     26885    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     25353    
+unix  3      [ ]         流        已连接     25106    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21739    
+unix  3      [ ]         流        已连接     17837    
+unix  3      [ ]         流        已连接     27437    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26709    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26138    
+unix  3      [ ]         流        已连接     25420    
+unix  3      [ ]         流        已连接     23228    
+unix  3      [ ]         流        已连接     22796    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     18935    
+unix  3      [ ]         流        已连接     26558    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24573    
+unix  3      [ ]         流        已连接     23064    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28921    
+unix  3      [ ]         流        已连接     26883    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     25358    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25048    
+unix  3      [ ]         流        已连接     21733    
+unix  3      [ ]         流        已连接     17824    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27374    
+unix  3      [ ]         流        已连接     26641    
+unix  3      [ ]         流        已连接     26098    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25425    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     23203    @/tmp/.X11-unix/X1024
+unix  3      [ ]         流        已连接     22820    
+unix  3      [ ]         流        已连接     19021    
+unix  3      [ ]         流        已连接     26495    
+unix  3      [ ]         流        已连接     24538    
+unix  3      [ ]         流        已连接     23062    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     28920    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     26884    
+unix  3      [ ]         流        已连接     25359    
+unix  3      [ ]         流        已连接     25049    /run/user/1000/bus
+unix  3      [ ]         流        已连接     21734    /run/user/121/bus
+unix  2      [ ]         数据报                17820    
+unix  3      [ ]         流        已连接     27354    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26640    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26097    
+unix  3      [ ]         流        已连接     25733    
+unix  3      [ ]         流        已连接     23205    
+unix  3      [ ]         流        已连接     22821    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     18936    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26493    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     24539    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23063    
+unix  3      [ ]         流        已连接     26863    
+unix  3      [ ]         流        已连接     23122    
+unix  3      [ ]         流        已连接     27351    
+unix  3      [ ]         流        已连接     21032    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26870    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23123    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24764    
+unix  3      [ ]         数据报                24377    
+unix  3      [ ]         流        已连接     27273    
+unix  3      [ ]         流        已连接     21031    
+unix  3      [ ]         流        已连接     26869    
+unix  3      [ ]         流        已连接     23120    
+unix  3      [ ]         流        已连接     24757    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     23542    
+unix  3      [ ]         流        已连接     21376    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27275    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     20929    
+unix  3      [ ]         流        已连接     26868    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     23121    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27590    @/dbus-vfs-daemon/socket-
+egVEljcn
+unix  3      [ ]         流        已连接     24756    
+unix  3      [ ]         流        已连接     23543    /run/user/121/bus
+unix  3      [ ]         流        已连接     21375    
+unix  3      [ ]         流        已连接     27274    
+unix  3      [ ]         流        已连接     20930    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26867    
+unix  3      [ ]         流        已连接     23100    
+unix  3      [ ]         流        已连接     31529    
+unix  3      [ ]         流        已连接     27593    
+unix  3      [ ]         流        已连接     23541    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     21384    /run/user/121/bus
+unix  3      [ ]         流        已连接     27267    
+unix  3      [ ]         流        已连接     19999    
+unix  3      [ ]         流        已连接     26866    /run/user/1000/bus
+unix  3      [ ]         流        已连接     23101    /run/user/121/bus
+unix  3      [ ]         流        已连接     27594    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     24753    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     23540    
+unix  3      [ ]         流        已连接     21383    
+unix  3      [ ]         流        已连接     27263    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     20001    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26864    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     23099    /run/user/121/bus
+unix  3      [ ]         流        已连接     24765    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     23537    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     21972    /run/user/121/bus
+unix  3      [ ]         流        已连接     21380    
+unix  3      [ ]         流        已连接     27268    /run/user/1000/bus
+unix  3      [ ]         流        已连接     20944    
+unix  3      [ ]         流        已连接     26865    
+unix  3      [ ]         流        已连接     23098    
+unix  3      [ ]         流        已连接     31530    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     23676    
+unix  3      [ ]         流        已连接     21971    
+unix  3      [ ]         流        已连接     21381    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27352    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     20945    /var/run/dbus/system_bus_
+socket
+unix  2      [ ]         数据报                27566    
+unix  3      [ ]         流        已连接     27304    
+unix  3      [ ]         流        已连接     26880    /run/user/1000/bus
+unix  3      [ ]         流        已连接     22323    /run/user/121/bus
+unix  3      [ ]         流        已连接     21336    
+unix  3      [ ]         流        已连接     21355    /run/user/121/bus
+unix  3      [ ]         流        已连接     22886    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21781    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21290    
+unix  3      [ ]         流        已连接     27251    
+unix  3      [ ]         流        已连接     26044    
+unix  3      [ ]         流        已连接     18103    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     17261    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26258    
+unix  3      [ ]         流        已连接     24126    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     18581    
+unix  3      [ ]         流        已连接     33652    
+unix  3      [ ]         流        已连接     27281    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26893    
+unix  3      [ ]         流        已连接     24125    
+unix  3      [ ]         流        已连接     21356    /run/user/121/bus
+unix  3      [ ]         流        已连接     21191    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22885    
+unix  3      [ ]         流        已连接     22260    
+unix  3      [ ]         流        已连接     21292    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27974    
+unix  3      [ ]         流        已连接     26045    /run/user/1000/bus
+unix  3      [ ]         流        已连接     21035    @/tmp/dbus-kr5DfED9
+unix  3      [ ]         流        已连接     17222    
+unix  3      [ ]         流        已连接     26259    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     24128    
+unix  2      [ ]         数据报                13698    
+unix  3      [ ]         流        已连接     27598    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     27276    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26873    
+unix  3      [ ]         流        已连接     25992    
+unix  3      [ ]         流        已连接     21338    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21189    
+unix  3      [ ]         流        已连接     22842    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21780    
+unix  3      [ ]         流        已连接     21289    
+unix  3      [ ]         流        已连接     26041    
+unix  3      [ ]         流        已连接     17221    
+unix  3      [ ]         流        已连接     17039    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26213    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22328    
+unix  3      [ ]         流        已连接     18488    
+unix  3      [ ]         流        已连接     27599    
+unix  3      [ ]         流        已连接     27280    
+unix  3      [ ]         流        已连接     26874    /run/user/1000/bus
+unix  3      [ ]         流        已连接     25991    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                21346    
+unix  2      [ ]         数据报                21197    
+unix  3      [ ]         流        已连接     22841    
+unix  3      [ ]         流        已连接     21922    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21291    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26042    /run/systemd/journal/stdo
+ut
+unix  2      [ ]         数据报                17702    
+unix  3      [ ]         流        已连接     17038    
+unix  3      [ ]         流        已连接     26260    
+unix  3      [ ]         流        已连接     22329    @/tmp/dbus-PtVamB2DcL
+unix  3      [ ]         流        已连接     18489    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     33653    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     27597    
+unix  3      [ ]         流        已连接     27353    
+unix  3      [ ]         流        已连接     26871    
+unix  3      [ ]         流        已连接     21353    
+unix  3      [ ]         流        已连接     22860    
+unix  3      [ ]         数据报                21787    
+unix  3      [ ]         流        已连接     21294    
+unix  3      [ ]         流        已连接     28191    
+unix  3      [ ]         流        已连接     25996    
+unix  3      [ ]         流        已连接     17255    
+unix  3      [ ]         流        已连接     16973    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     26235    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22330    
+unix  3      [ ]         流        已连接     16393    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     27309    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26872    @/tmp/dbus-MFb0It2C3g
+unix  3      [ ]         流        已连接     25990    
+unix  3      [ ]         流        已连接     22240    
+unix  3      [ ]         流        已连接     21354    
+unix  2      [ ]         数据报                21209    
+unix  3      [ ]         流        已连接     22861    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     21903    
+unix  3      [ ]         流        已连接     28008    
+unix  3      [ ]         流        已连接     25997    /run/user/1000/bus
+unix  3      [ ]         流        已连接     17256    
+unix  3      [ ]         流        已连接     16972    
+unix  3      [ ]         流        已连接     26234    
+unix  3      [ ]         流        已连接     22331    @/tmp/dbus-rRIqQKcM
+unix  3      [ ]         流        已连接     18492    
+unix  3      [ ]         流        已连接     27600    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     27308    
+unix  3      [ ]         流        已连接     26890    /run/user/1000/bus
+unix  3      [ ]         流        已连接     22241    /run/user/121/bus
+unix  3      [ ]         流        已连接     21300    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     21299    
+unix  3      [ ]         流        已连接     27589    
+unix  3      [ ]         流        已连接     22865    
+unix  3      [ ]         流        已连接     27585    
+unix  3      [ ]         流        已连接     27252    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     25993    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     17262    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     26237    /run/systemd/journal/stdo
+ut
+unix  3      [ ]         流        已连接     22335    
+unix  3      [ ]         流        已连接     18493    /var/run/dbus/system_bus_
+socket
+unix  3      [ ]         流        已连接     27601    
+unix  3      [ ]         流        已连接     27305    /run/user/1000/bus
+unix  3      [ ]         流        已连接     26894    /run/user/1000/bus
+unix  3      [ ]         流        已连接     21301    
+unix  2      [ ]         数据报                21077    
+unix  3      [ ]         流        已连接     22866    /run/user/121/bus
+unix  3      [ ]         数据报                21786    
+unix  3      [ ]         流        已连接     27586    /run/user/1000/bus
+unix  3      [ ]         流        已连接     27261    @/tmp/dbus-34DNMogE
+unix  3      [ ]         流        已连接     26086    
+unix  2      [ ]         数据报                17254    
+unix  3      [ ]         流        已连接     26236    
+unix  3      [ ]         流        已连接     22336    /run/user/121/pulse/nativ
+e
+unix  3      [ ]         流        已连接     16391 
