@@ -13,6 +13,8 @@ using namespace cpr;
 static HttpServer* server = new HttpServer();
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/System/Register"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -24,6 +26,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Payload{{"x", "5"}},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -35,6 +39,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -46,6 +52,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/Faces"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Payload{{"x", "5"}},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -57,6 +65,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Payload{{"x", "5"}},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -68,6 +78,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
+	Session session;
+    session.SetUrl(url);
     Response response = Get(url, 
                              Parameters{{"x", "5"}},
                              Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -79,6 +91,8 @@ TEST(){
 } 
 TEST(){
 	Url url{"http://47.111.82.206:8088/VIID/Images"};
+	Session session;
+    session.SetUrl(url);
     Response response = Post(url, 
                              Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"}
                              Header{{"Content-Type","application/json;charset=utf-8"}});
