@@ -27,9 +27,10 @@ int main(int argc, char** argv) {
 }
 void Register1()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
-    cpr::Response response = cpr::Post(url, 
-                            /* cpr::Payload{{"x", "5"}},*/
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url, 
                              cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
@@ -43,9 +44,11 @@ void Register1()
 }
 void Register2()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
-    cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url, 
+                             cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -58,8 +61,10 @@ void Register2()
 }
 void Register3()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
-    cpr::Response response = cpr::Post(url, 
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url, 
                             /* cpr::Payload{{"x", "5"}},*/
                              cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -74,9 +79,11 @@ void Register3()
 }
 void Register4()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Faces"};
-    cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url, 
+                             cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -104,9 +111,11 @@ void Register4()
 }*/
 void Register6()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
-    cpr::Response response = cpr::Post(url, 
-                             cpr::Payload{{"x", "5"}},
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url, 
+                             cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -119,8 +128,10 @@ void Register6()
 }
 void Register7()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
-    cpr::Response response = cpr::Get(url, 
+    session.SetUrl(url);
+    cpr::Response response = session.Get(url, 
                              cpr::Parameters{{"x", "5"}},
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
@@ -134,9 +145,10 @@ void Register7()
 }
 void Register8()
 {
+    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
-    cpr::Response response = cpr::Post(url, 
-                            /* cpr::Payload{{"x", "5"}},*/
+    session.SetUrl(url);
+    cpr::Response response = session.Post(url,
                              cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"}
                              cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     std::cout<<response.text<<std::endl;
