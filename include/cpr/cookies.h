@@ -1,7 +1,7 @@
 #ifndef CPR_COOKIES_H
 #define CPR_COOKIES_H
 
-#include "cpr/curlholder.h"
+#include "curlholder.h"
 #include <initializer_list>
 #include <map>
 #include <sstream>

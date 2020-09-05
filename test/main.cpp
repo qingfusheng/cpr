@@ -4,9 +4,9 @@
 #include <cstdio>
 #include <fstream>
 #include <string>
-
-#include "include/cpr/cpr.h"
-#include "include/cpr/multipart.h"
+#include "httpServer.hpp"
+#include "../include/cpr/cpr.h"
+#include "../include/cpr/multipart.h"
 
 using namespace cpr;
 

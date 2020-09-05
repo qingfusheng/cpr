@@ -5,9 +5,9 @@
 #include <string>
 #include <vector>
 
-#include "cpr/cookies.h"
-#include "cpr/cprtypes.h"
-#include "cpr/curlholder.h"
+#include "cookies.h"
+#include "cprtypes.h"
+#include "curlholder.h"
 
 namespace cpr {
 namespace util {

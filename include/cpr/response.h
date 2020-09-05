@@ -6,10 +6,10 @@
 #include <curl/curl.h>
 #include <string>
 
-#include "cpr/cookies.h"
-#include "cpr/cprtypes.h"
-#include "cpr/error.h"
-#include "cpr/util.h"
+#include "cookies.h"
+#include "cprtypes.h"
+#include "error.h"
+#include "util.h"
 #include <utility>
 
 namespace cpr {

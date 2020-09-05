@@ -5,7 +5,7 @@
 #include <memory>
 #include <string>
 
-#include "cpr/curlholder.h"
+#include "curlholder.h"
 
 namespace cpr {
 

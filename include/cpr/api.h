@@ -7,14 +7,14 @@
 #include <string>
 #include <utility>
 
-#include "cpr/auth.h"
-#include "cpr/cprtypes.h"
-#include "cpr/digest.h"
-#include "cpr/multipart.h"
-#include "cpr/ntlm.h"
-#include "cpr/payload.h"
-#include "cpr/response.h"
-#include "cpr/session.h"
+#include "auth.h"
+#include "cprtypes.h"
+#include "digest.h"
+#include "multipart.h"
+#include "ntlm.h"
+#include "payload.h"
+#include "response.h"
+#include "session.h"
 #include <utility>
 
 namespace cpr {

@@ -1,11 +1,11 @@
 #ifndef CPR_CPR_H
 #define CPR_CPR_H
 
-#include "cpr/api.h"
-#include "cpr/auth.h"
-#include "cpr/cprtypes.h"
-#include "cpr/response.h"
-#include "cpr/session.h"
-#include "cpr/status_codes.h"
+#include "api.h"
+#include "auth.h"
+#include "cprtypes.h"
+#include "response.h"
+#include "session.h"
+#include "status_codes.h"
 
 #endif
