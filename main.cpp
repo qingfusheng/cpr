@@ -30,8 +30,8 @@ void Register1()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     session.SetUrl(url);
-    session.setOption("{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}");
-    session.SetOption({"Content-Type","application/json;charset=utf-8"});
+    session.setOption(cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -47,9 +47,9 @@ void Register2()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
     session.SetUrl(url);
-    cpr::Response response = session.Post(url, 
-                             cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
@@ -64,10 +64,9 @@ void Register3()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
     session.SetUrl(url);
-    cpr::Response response = session.Post(url, 
-                            /* cpr::Payload{{"x", "5"}},*/
-                             cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
@@ -82,9 +81,9 @@ void Register4()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Faces"};
     session.SetUrl(url);
-    cpr::Response response = session.Post(url, 
-                             cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
@@ -114,9 +113,9 @@ void Register6()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
     session.SetUrl(url);
-    cpr::Response response = session.Post(url, 
-                             cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Body{"{\"KeepaliveObject\":\{\"DeviceID\":\"31000000001310910561\"}}"});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
@@ -131,9 +130,12 @@ void Register7()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
     session.SetUrl(url);
-    cpr::Response response = session.Get(url, 
+/*    cpr::Response response = session.Get(url, 
                              cpr::Parameters{{"x", "5"}},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});*/
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Parameters{{"x", "5"}});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
@@ -148,9 +150,9 @@ void Register8()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     session.SetUrl(url);
-    cpr::Response response = session.Post(url,
-                             cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"}
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
+    cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
     std::cout<<response.header["content-type"]<<std::endl;
