@@ -14,20 +14,20 @@ void Register6();
 void Register7();
 void Register8();
 int main(int argc, char** argv) {
+    cpr::Session session;
 	while(1){
-		Register1();sleep(1);
-		Register2();sleep(1);
-		Register3();sleep(1);
-		Register4();sleep(1);
+		Register1(session);sleep(1);
+		Register2(session);sleep(1);
+		Register3(session);sleep(1);
+		Register4(session);sleep(1);
 		/*Register5();sleep(1);*/
-		Register6();sleep(1);
-		Register7();sleep(1);
-		Register8();sleep(1);
+		Register6(session);sleep(1);
+		Register7(session);sleep(1);
+		Register8(session);sleep(1);
 	}
 }
-void Register1()
+void Register1(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     session.SetUrl(url);
     session.SetOption(cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
@@ -42,9 +42,8 @@ void Register1()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register2()
+void Register2(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -59,9 +58,8 @@ void Register2()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register3()
+void Register3(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -76,9 +74,8 @@ void Register3()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register4()
+void Register4(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Faces"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -108,9 +105,8 @@ void Register4()
     else
         std::cout<<"ERROR"<<std::endl;
 }*/
-void Register6()
+void Register6(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
@@ -125,9 +121,8 @@ void Register6()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register7()
+void Register7(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
     session.SetUrl(url);
     /*cpr::Response response = session.Get(url, 
@@ -145,9 +140,8 @@ void Register7()
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register8()
+void Register8(cpr::Session session)
 {
-    cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
