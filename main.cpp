@@ -129,12 +129,11 @@ void Register7()
 {
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
-    session.SetUrl(url);
-/*    cpr::Response response = session.Get(url, 
+    cpr::Response response = session.Get(url, 
                              cpr::Parameters{{"x", "5"}},
-                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});*/
-    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
-    session.SetOption(cpr::Parameters{{"x", "5"}});
+                             cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    /*session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
+    session.SetOption(cpr::Parameters{{"x", "5"}});*/
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
