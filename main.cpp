@@ -5,16 +5,16 @@
 #include <fstream>
 #include <string>
 #include "include/cpr/cpr.h"
-void Register1();
-void Register2();
-void Register3();
-void Register4();
+void Register1(cpr::Session &session);
+void Register2(cpr::Session &session);
+void Register3(cpr::Session &session);
+void Register4(cpr::Session &session);
 /*void Register5();*/
-void Register6();
-void Register7();
-void Register8();
+void Register6(cpr::Session &session);
+void Register7(cpr::Session &session);
+void Register8(cpr::Session &session);
 int main(int argc, char** argv) {
-    cpr::Session session;
+        cpr::Session session;
 	while(1){
 		Register1(session);sleep(1);
 		Register2(session);sleep(1);
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 		Register8(session);sleep(1);
 	}
 }
-void Register1(cpr::Session session)
+void Register1(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     session.SetUrl(url);
@@ -42,7 +42,7 @@ void Register1(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register2(cpr::Session session)
+void Register2(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
     session.SetUrl(url);
@@ -58,7 +58,7 @@ void Register2(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register3(cpr::Session session)
+void Register3(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Keepalive"};
     session.SetUrl(url);
@@ -74,7 +74,7 @@ void Register3(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register4(cpr::Session session)
+void Register4(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/Faces"};
     session.SetUrl(url);
@@ -105,7 +105,7 @@ void Register4(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }*/
-void Register6(cpr::Session session)
+void Register6(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/MotorVehicles"};
     session.SetUrl(url);
@@ -121,7 +121,7 @@ void Register6(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register7(cpr::Session session)
+void Register7(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/ImageServer"};
     session.SetUrl(url);
@@ -140,7 +140,7 @@ void Register7(cpr::Session session)
     else
         std::cout<<"ERROR"<<std::endl;
 }
-void Register8(cpr::Session session)
+void Register8(cpr::Session &session)
 {
     cpr::Url url{"http://47.111.82.206:8088/VIID/Images"};
     session.SetUrl(url);
