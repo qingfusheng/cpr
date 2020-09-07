@@ -30,7 +30,7 @@ void Register1()
     cpr::Session session;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     session.SetUrl(url);
-    session.setOption(cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
+    session.SetOption(cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
@@ -48,7 +48,7 @@ void Register2()
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/UnRegister"};
     session.SetUrl(url);
     session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
-    session.SetOption(cpr::Body{"{"RegisterObject":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
+    session.SetOption(cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
