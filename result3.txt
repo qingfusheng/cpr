@@ -1,0 +1,49 @@
+root@qingfusheng-VirtualBox:~/git/testing/new2# g++ main.cpp libcpr.a -o output -lcurl
+main.cpp: In function ‘int main(int, char**)’:
+main.cpp:19:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register1(session);sleep(1);
+                    ^
+In file included from cpr/api.h:17:0,
+                 from cpr/cpr.h:4,
+                 from main.cpp:7:
+cpr/session.h:31:7: note: ‘cpr::Session::Session(const cpr::Session&)’ is implicitly declared as deleted because ‘cpr::Session’ declares a move constructor or move assignment operator
+ class Session {
+       ^~~~~~~
+main.cpp:8:6: note:   initializing argument 1 of ‘void Register1(cpr::Session)’
+ void Register1(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:20:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register2(session);sleep(1);
+                    ^
+main.cpp:9:6: note:   initializing argument 1 of ‘void Register2(cpr::Session)’
+ void Register2(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:21:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register3(session);sleep(1);
+                    ^
+main.cpp:10:6: note:   initializing argument 1 of ‘void Register3(cpr::Session)’
+ void Register3(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:22:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register4(session);sleep(1);
+                    ^
+main.cpp:11:6: note:   initializing argument 1 of ‘void Register4(cpr::Session)’
+ void Register4(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:24:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register6(session);sleep(1);
+                    ^
+main.cpp:13:6: note:   initializing argument 1 of ‘void Register6(cpr::Session)’
+ void Register6(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:25:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register7(session);sleep(1);
+                    ^
+main.cpp:14:6: note:   initializing argument 1 of ‘void Register7(cpr::Session)’
+ void Register7(cpr::Session session);
+      ^~~~~~~~~
+main.cpp:26:20: error: use of deleted function ‘cpr::Session::Session(const cpr::Session&)’
+   Register8(session);sleep(1);
+                    ^
+main.cpp:15:6: note:   initializing argument 1 of ‘void Register8(cpr::Session)’
+ void Register8(cpr::Session session);
