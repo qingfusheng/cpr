@@ -5,6 +5,7 @@
 #include <fstream>
 #include <string>
 #include "cpr/cpr.h"
+using nlohmann::json;
 void Register1(cpr::Session &session);
 void Register2(cpr::Session &session);
 void Register3(cpr::Session &session);
@@ -28,6 +29,14 @@ int main(int argc, char** argv) {
 }
 void Register1(cpr::Session &session)
 {
+    auto j = {
+        "RegisterObject":{
+            "DeviceID":"31000000001310910561"
+        },
+        "ProtocolVersion":"2.0"
+    }
+    j_string = j.dump();
+    std::cout<<j_string<<endl;
     cpr::Url url{"http://47.111.82.206:8088/VIID/System/Register"};
     session.SetUrl(url);
     session.SetOption(cpr::Body{"{\"RegisterObject\":{\"DeviceID\":\"31000000001310910561\",\"ProtocolVersion\":\"2.0\"}}"});
