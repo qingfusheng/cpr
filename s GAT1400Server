@@ -1,0 +1,531 @@
+[33mcommit 7b4d22217c63ca639be46876a735a1e1f5667879[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Sep 26 17:23:00 2020 +0800
+
+    gat1400
+
+[33mcommit 177f903504b29ae83b88d06794ffcd7eac1b5a32[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Sep 26 16:53:38 2020 +0800
+
+    main
+
+[33mcommit 61bcc38d8be64accf3b2dd1592d3bc01862267cd[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Sep 26 16:47:11 2020 +0800
+
+    main
+
+[33mcommit ef620a7f86305fa07ca96421fc494911cf17e64c[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Sep 26 16:37:43 2020 +0800
+
+    main
+
+[33mcommit 32468d0bc8dec3756863dd3d3e8fb19928072426[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Sep 26 15:59:50 2020 +0800
+
+    main
+
+[33mcommit 915690d4ea0291d84f64970bdd34fa593c3dcbdf[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Sep 26 15:54:11 2020 +0800
+
+    template modefied filter
+
+[33mcommit 5184095c4607fe90eb71a82d4175d5d30d4d0cb0[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 23:37:50 2020 +0800
+
+    main.cpp
+
+[33mcommit 8aa53e4dae1be96846c97c198a1f830795e52a58[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 23:08:57 2020 +0800
+
+    error information
+
+[33mcommit 8431e9d17d7a7ce13a3f83e5b1e838d09bec1e65[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Mon Sep 7 23:00:05 2020 +0800
+
+    main
+
+[33mcommit bb906c890be044abf5503e74de9eb1d8067cccac[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 09:36:51 2020 +0800
+
+    remodefy
+
+[33mcommit 22fdc2f4d859af7e8861533bd4a7765ebeef96fe[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Mon Sep 7 09:06:02 2020 +0800
+
+    main
+
+[33mcommit d55796b92fae6be87328a46d1de1bf77afb22b7c[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 09:02:48 2020 +0800
+
+    result
+
+[33mcommit 39fc6370212c5916063f3be450259ad459824ff0[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Mon Sep 7 08:46:34 2020 +0800
+
+    delete the result file
+
+[33mcommit c043b07d217c4fd1adfe8dbdbf785e766e9f4789[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 08:44:35 2020 +0800
+
+    main.cpp
+
+[33mcommit 3595b303d83b4e7b9a4c601a3297c4af0453082f[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Sep 7 08:38:20 2020 +0800
+
+    error
+
+[33mcommit c43df1a80024c560a39e7fb0a6ca915c20e74d5f[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sun Sep 6 22:53:56 2020 +0800
+
+    git status
+
+[33mcommit 24d78c6e0591f26b122b45e0c7fee511afbd25c8[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sun Sep 6 22:53:46 2020 +0800
+
+    git add main.cpp
+
+[33mcommit 1014f9c7490eb462fef73da610a86783241acc80[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Sep 5 23:04:02 2020 +0800
+
+    rechange the main
+
+[33mcommit 46c043a2742ebbd7056f7433028ba50593aac018[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Sep 5 22:25:38 2020 +0800
+
+    revert
+
+[33mcommit 9044a4268591afad3fc1398f045c9c0639d528f2[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Sep 5 17:16:00 2020 +0800
+
+    shortcut
+
+[33mcommit 633804f8d1cd8082c59a5aca4a3bf0e9149da858[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Thu Sep 3 19:40:30 2020 +0800
+
+    modefied
+
+[33mcommit 123827a793fdf958053f9df4de018771a86f55f7[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Wed Sep 2 22:19:21 2020 +0800
+
+    main.cpp TEST
+
+[33mcommit e6dac0b985a18bdc33df155e506644242b330cc5[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Wed Sep 2 17:06:02 2020 +0800
+
+    net result
+
+[33mcommit 7bae4283c972b82f740bfb09ca22e2c7fa80715f[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Wed Sep 2 16:50:43 2020 +0800
+
+    new result
+
+[33mcommit 21eeb666c43d40653c0bb986180ab83c0ac0da92[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Wed Sep 2 15:42:00 2020 +0800
+
+    the forth result
+
+[33mcommit 3cdd71a86c34bf19c1a43651b4db2b8278ee3f1e[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Wed Sep 2 15:33:26 2020 +0800
+
+    main
+
+[33mcommit 7a447224b74f511fc0140274a1415f74b3c1030a[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Wed Sep 2 15:22:05 2020 +0800
+
+    main
+
+[33mcommit e6b8fad2036d54da7b5776062478ea6753062185[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Wed Sep 2 15:17:55 2020 +0800
+
+    main.c.pp
+
+[33mcommit 943f0245f6bd11bab95af66e1d88211ff9b75ef1[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Sat Aug 29 22:12:22 2020 +0800
+
+    change the main.cpp
+
+[33mcommit 0988898ae3ff7b3e480f426a2783830f55b464d3[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Fri Aug 28 21:15:10 2020 +0800
+
+    modefied main.cpp
+
+[33mcommit df0caae812e966bbbb745247cc31c1f827d1b059[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Fri Aug 28 21:13:02 2020 +0800
+
+    8/28
+
+[33mcommit fcf447e1c45700b38cf00d70a72dc555d91e65e8[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Thu Aug 27 12:25:11 2020 +0800
+
+    modified main.cpp
+
+[33mcommit 15fba79d9faf22d87cf2f5b9e862bb378f323f68[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Thu Aug 27 12:18:06 2020 +0800
+
+    8/27 result
+
+[33mcommit 21f8bcee25a3eddfbf8947cf1b40d19cc97fec59[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Wed Aug 26 11:06:39 2020 +0800
+
+    change again
+
+[33mcommit e438c5f43ece9b1dcf884dd6ebb4f3a19d2729f7[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Wed Aug 26 11:03:17 2020 +0800
+
+    modefiled main.cpp
+
+[33mcommit e47499ad7cc1fb5051b3f14c4d56e9f0e056c7d4[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Tue Aug 25 17:00:38 2020 +0800
+
+    8/25
+
+[33mcommit 93eda50a3f277f3e41564d3c630b625403246c0c[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Aug 24 23:26:15 2020 +0800
+
+    modify the result.txt
+
+[33mcommit 1643616111016ccb45048ae5db253d946cc1084f[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Aug 24 23:03:52 2020 +0800
+
+    change the result
+
+[33mcommit ea7764c32c56dfb0b3d718e83a7cd9c509f516db[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Mon Aug 24 22:58:43 2020 +0800
+
+    端口
+
+[33mcommit 1f60566bb8c4371e4fb129b17aadd530c8e33b4b[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sun Aug 23 22:58:35 2020 +0800
+
+    2020/8/23 my work
+
+[33mcommit d62eab6ab31bcdcb21c6eb0b8f00a7404bd804e0[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Aug 22 22:37:22 2020 +0800
+
+    改变端口
+
+[33mcommit 2f524f2590b62cc7a81fcf206704a81ab0d26cde[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Aug 22 00:51:16 2020 +0800
+
+    change
+
+[33mcommit 20f907c027dd968ff2f231c39ea55586e1a3ccb6[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Aug 22 00:36:59 2020 +0800
+
+    result
+
+[33mcommit de4922d5e58b9d2bfba68d1827f3114f7bc98914[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Sat Aug 22 00:21:32 2020 +0800
+
+    erroe
+
+[33mcommit f23912ba7e09c8d71626676594044039656bba85[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Fri Aug 21 23:49:32 2020 +0800
+
+    change the main.cpp
+
+[33mcommit 49b234d736cc6ed245a75c830ad921eb87de43e7[m
+Author: qingfusheng <61900087+qingfusheng@users.noreply.github.com>
+Date:   Fri Aug 21 23:02:56 2020 +0800
+
+    change
+
+[33mcommit d01008a47fd05175ff2026d9f766a9f3ef04f6fa[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Fri Aug 21 22:51:09 2020 +0800
+
+    change
+
+[33mcommit 919a7e45e03b94e98fbaec680f3bfac10c8550f1[m
+Author: qingfusheng <2564526674@qq.com>
+Date:   Fri Aug 21 22:31:56 2020 +0800
+
+    change
+
+[33mcommit 52bb78e4928ddfc32861c25c99fd29a420e22eb2[m
+Author: Peter Trekels <peter.trekels@androme.com>
+Date:   Mon Aug 10 23:06:42 2020 +0200
+
+    Only set client cert/key in libcurl when a value is set.
+
+[33mcommit 2c372d4dfcfa49351f9db416222c13c769430ccd[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Sun Aug 9 11:48:50 2020 +0200
+
+    Response default constructor for windows
+
+[33mcommit 350b0f81e6ab70b47e0eef7089b68da07ff491e9[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Sun Aug 9 11:34:36 2020 +0200
+
+    curl_easy_getinfo not usung deprecated versions
+
+[33mcommit 943194f16fbb68b406a00e7404321d886031b026[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Sun Aug 9 11:34:01 2020 +0200
+
+    Added wrapper around curl_off_t for #433
+
+[33mcommit 78f11164e525294774e0512a8f54d97eea621c09[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Sun Aug 9 10:12:03 2020 +0200
+
+    Fixed curl_easy_init_mutex_ not being static
+
+[33mcommit 451fd1a896c963367ebb3d77cfe4550b2d5636f3[m
+Author: Mike Gelfand <mike.gelfand@solarwinds.com>
+Date:   Tue Jul 28 01:49:00 2020 +0300
+
+    fix: Don't search for invalid cURL components
+    
+    `PROTOCOLS` and `FEATURES` aren't real cURL package components. AFAICT
+    neither CMake-bundled FindCURL module nor cURL-provided config package
+    (when building it with CMake) support those components, and both fail to
+    find the library when they are passed.
+
+[33mcommit 6d5ab2b7e5019d32018eb872eb91d0627f59c4da[m
+Author: Jason Rhinelander <jason@imaginary.ca>
+Date:   Mon Jul 27 17:10:21 2020 -0300
+
+    Simplify Authentication classes and make them copyable/movable (#425)
+    
+    * Remove superfluous code
+    
+    Simplifies storage of the Authentication and derived classes:
+    
+    - remove username_ and password_ members because they are never used.
+    - take arguments as const lvalue reference rather than rvalues (since we
+    have no need to store them).
+    - remove pointless overrides in Digest/NTLM: the overridden destructor
+    does nothing, and the the GetAuthString() overrides simply call the base
+    class version (which is what happens anyway if they aren't overridden).
+    - Inherit Authentication's constructor in Digest/NTLM rather than
+    specifying an identical duplicate.
+    - remove digest.cpp and ntlm.cpp because they do nothing useful.
+    
+    * Make Authentication and derived types movable/copyable
+    
+    Because of the const auth_string_ the Authentication and derived classes
+    are neither copyable nor movable, which makes it more difficult to deal
+    with them.  Remove the const to allow it to be copied/moved and stored
+    in containers that require copyable and/or moveable elements.
+    
+    * Avoid inherited constructors; change member to protected
+    
+    * Add rvalue constructor
+    
+    * Virtualize GetAuthString()
+    
+    This allows the creation of custom subclasses that extend the class to
+    return an auth string in some other way.
+    
+    * Simplify auth move ctor
+
+[33mcommit deaaf676d8ef5c650372785b6f611f0124560665[m
+Author: Kili <12865310+KingKili@users.noreply.github.com>
+Date:   Mon Jul 27 09:47:08 2020 +0200
+
+    Add Required flag to threads
+
+[33mcommit 6075537a674df3a06bb68cbae7588d83f4ea46f3[m
+Author: Fabian Sauter <COM8@users.noreply.github.com>
+Date:   Mon Jul 27 09:31:49 2020 +0200
+
+    Disabled the Windows OpenSSL CI (#418)
+
+[33mcommit 6f17d23a017e58beef2489e62df26acd305b29ee[m
+Author: Jason Rhinelander <jason@imaginary.ca>
+Date:   Mon Jul 27 04:20:28 2020 -0300
+
+    Add missing Session methods (#426)
+    
+    SetUnixSocket, SetSslOptions, and SetVerbose are declared in the Session
+    header but missing implementations (thus causing linking failures if
+    attempting to use any of them) -- only the SetOption(...) overloads had
+    implementations.  This adds the missing implementations.
+
+[33mcommit 9a4e94d6cb4ce769f4c3e1e8ede4c4edbe3806ea[m
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Wed Jul 22 08:32:30 2020 +0200
+
+    Fixed #424 (No const rvalue references)
+    
+    https://codesynthesis.com/~boris/blog/2012/07/24/const-rvalue-references/
+
+[33mcommit 028de333e1437b9e83a28ac02c0f36e198e9d92b[m
+Merge: d073315 5e87cb5
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Tue Jul 21 18:41:51 2020 +0200
+
+    Merge branch 'master' of github.com:whoshuu/cpr
+
+[33mcommit d0733158d399ea5e8f7e86e81363883f7bf4e5cb[m
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Tue Jul 21 18:41:47 2020 +0200
+
+    Less auto
+
+[33mcommit 3665fd8f89cfe40b470801522037dff7be0d463c[m
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Tue Jul 21 15:35:35 2020 +0200
+
+    Removed auto Response for better readability
+
+[33mcommit 1e3f9bcf5ddbbe20fed25bb4dadb70110f586909[m
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Tue Jul 21 15:32:37 2020 +0200
+
+    Removed auto string for better readability
+
+[33mcommit a5d16485827217a63c84fb631876814f744b2b88[m
+Author: Fabian Sauter <fabian@w202-6o-v4.eduroam.dynamic.rbg.tum.de>
+Date:   Tue Jul 21 15:31:26 2020 +0200
+
+    Removed auto URL for better readability
+
+[33mcommit 5e87cb5f45ac99858f0286dc1c35a6cd27c3bcb9[m[33m ([m[1;33mtag: v1.5.1[m[33m)[m
+Author: Fabian Sauter <COM8@users.noreply.github.com>
+Date:   Wed Jul 8 14:20:49 2020 +0200
+
+    Version bump to cpr 1.5.1
+
+[33mcommit 18e1fc5c3fc0ffc07695f1d78897fb69e7474ea9[m
+Author: Kili <12865310+KingKili@users.noreply.github.com>
+Date:   Wed Jul 8 14:10:07 2020 +0200
+
+    CMake add ability to use WINSSL (#404)
+    
+    * CMake add ability to use WINSSL
+    
+    * Only try to build ssl tests when ssl is enabled
+    
+    * Add logic to detect ssl ability of curl on your system
+    
+    * Fix SSL Certs in wrong directory
+    
+    * Fixed Windows SSL test
+    
+    * Basic Unic to Windows path conversion
+    
+    * Updated tree to include files
+    
+    * Printing the resulting ssl base path
+    
+    * Cleanup removed tree
+    
+    * Add option to disable SSL tests
+    
+    * Add CI run for winssl
+
+[33mcommit a2f0a6dc4a20ede2eb89d8b5cd6b434967d6ae3e[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Tue Jul 7 10:28:14 2020 +0200
+
+    Added multithreaded support.
+    
+    Fixes #313
+
+[33mcommit 97c67378a5725e043c268143bfb2957138ad038b[m
+Author: Vincas Dargis <vindrg@gmail.com>
+Date:   Tue Jul 7 10:53:42 2020 +0300
+
+    Add Conan package manager usage example (#416)
+    
+    Update README.txt to show how cpr can be retrieved using Conan package
+    manager.
+
+[33mcommit 937ec92c61faf6c4b5657fc4bedc3aa510c0a86a[m
+Author: xloem <0xloem@gmail.com>
+Date:   Mon Jul 6 03:42:19 2020 -0400
+
+    Provide hashes for git content to replace the security of submodules (#415)
+
+[33mcommit 65d0bf1a53629bd45d3bd7c62863bc37323a72aa[m
+Author: Dilshod Mukhtarov <dilshodm@gmail.com>
+Date:   Sat Jul 4 11:39:49 2020 +0400
+
+    Fix for Parameters using string variable (#413)
+    
+    * Broken API: can't use Parameters{{my_string_key, my_string_value}}
+    
+    The Parameter constructor accepts only r-value references which forces to use string variables as:
+    Parameters{{my_string_key.c_str(), my_string_value.c_str()}}.
+    Added const reference to strings constructor
+    
+    * Test for Parameters added
+
+[33mcommit ec8e8eda3c585c79c26ed3aa94fc934ec588574d[m
+Author: Kili <12865310+KingKili@users.noreply.github.com>
+Date:   Sun Jun 28 20:21:06 2020 +0200
+
+    Allow implicit creation of URL, Body and UserAgent objects (#411)
+    
+    * Allow implicit construction of URL objects
+    
+    * Allow Implicit construction of body and user agent
+
+[33mcommit 1d40405953bfd0aca6595b706d7c76df18fe9084[m
+Author: Dilshod Mukhtarov <dilshodm@gmail.com>
+Date:   Sat Jun 27 19:51:36 2020 +0400
+
+    structures_tests added
+
+[33mcommit d98ec3b1e9f7b6beeed4b8e5f6755bbf912ed316[m
+Author: Dilshod Mukhtarov <dilshodm@gmail.com>
+Date:   Fri Jun 26 16:45:08 2020 +0400
+
+    Broken API: can't use Payload{{my_string_key, my_string_value}}
+    
+    The Pair constructor accepts only r-value references which forces to use string variables as:
+    Payload{{my_string_key.c_str(), my_string_value.c_str()}}.
+    Added const reference to strings constructor
+
+[33mcommit c4392d78d76ffe47b9da7edd7bfecb27cf481edc[m
+Author: Fabian Sauter <sauter.fabian@mailbox.org>
+Date:   Sat Jun 27 17:16:07 2020 +0200
+
+    Removed AUTHORS since GitHub shows all contributors
