@@ -40,7 +40,7 @@ GAT1400Server::Register(std::string deviceid){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-GAT1400Server::Unregister(){
+GAT1400Server::Unregister(std::string deviceid){
     json j;
 	j["RegisterObject"]={"DeviceID",deviceid};
 	j["ProtocolVersion"]="2.0";
@@ -56,7 +56,7 @@ GAT1400Server::Unregister(){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-GAT1400Server::Keepalive(){
+GAT1400Server::Keepalive(std::string deviceid){
     json j;
 	j["RegisterObject"]={"DeviceID",deviceid};
 	j["ProtocolVersion"]="2.0";
