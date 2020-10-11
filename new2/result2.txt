@@ -1,0 +1,43 @@
+root@qingfusheng-VirtualBox:~/git/testing/cpr/new2# g++ hello1.h libcpr.a -o output -lcurl
+hello1.h:16:1: error: prototype for ‘GAT1400Server::GAT1400Server()’ does not match any in class ‘GAT1400Server’
+ GAT1400Server::GAT1400Server(){
+ ^~~~~~~~~~~~~
+hello1.h:5:7: error: candidates are: GAT1400Server::GAT1400Server(const GAT1400Server&)
+ class GAT1400Server
+       ^~~~~~~~~~~~~
+hello1.h:8:5: error:                 GAT1400Server::GAT1400Server(std::__cxx11::string&)
+     GAT1400Server(std::string &url); //初始化服务器的地址IP:port
+     ^~~~~~~~~~~~~
+hello1.h: In destructor ‘GAT1400Server::~GAT1400Server()’:
+hello1.h:24:12: error: type ‘class cpr::Session’ argument given to ‘delete’, expected pointer
+     delete session;
+            ^~~~~~~
+hello1.h: At global scope:
+hello1.h:27:45: error: ISO C++ forbids declaration of ‘Register’ with no type [-fpermissive]
+ GAT1400Server::Register(std::string deviceid){
+                                             ^
+hello1.h:27:1: error: prototype for ‘int GAT1400Server::Register(std::__cxx11::string)’ does not match any in class ‘GAT1400Server’
+ GAT1400Server::Register(std::string deviceid){
+ ^~~~~~~~~~~~~
+hello1.h:10:10: error: candidate is: bool GAT1400Server::Register()
+     bool Register();   //向服务器注册，返回对错
+          ^~~~~~~~
+hello1.h:43:47: error: ISO C++ forbids declaration of ‘Unregister’ with no type [-fpermissive]
+ GAT1400Server::Unregister(std::string deviceid){
+                                               ^
+hello1.h:43:1: error: prototype for ‘int GAT1400Server::Unregister(std::__cxx11::string)’ does not match any in class ‘GAT1400Server’
+ GAT1400Server::Unregister(std::string deviceid){
+ ^~~~~~~~~~~~~
+hello1.h:11:10: error: candidate is: bool GAT1400Server::Unregister()
+     bool Unregister(); //向服务器注销，返回对错
+          ^~~~~~~~~~
+hello1.h:59:46: error: ISO C++ forbids declaration of ‘Keepalive’ with no type [-fpermissive]
+ GAT1400Server::Keepalive(std::string deviceid){
+                                              ^
+hello1.h:59:1: error: prototype for ‘int GAT1400Server::Keepalive(std::__cxx11::string)’ does not match any in class ‘GAT1400Server’
+ GAT1400Server::Keepalive(std::string deviceid){
+ ^~~~~~~~~~~~~
+hello1.h:12:10: error: candidate is: bool GAT1400Server::Keepalive()
+     bool Keepalive();  //向服务器保活，返回对错
+          ^~~~~~~~~
+
