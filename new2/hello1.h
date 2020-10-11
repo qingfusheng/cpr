@@ -11,32 +11,25 @@ public:
     bool Unregister(); //向服务器注销，返回对错
     bool Keepalive();  //向服务器保活，返回对错
 private:
-    const std::string url_;
+    cpr::Session session;
 };
 GAT1400Server::GAT1400Server(){ 
 };
-GAT1400Server::GAT1400Server(std::string &url){
-    url_ = url;
-    cpr::Session session;
+GAT1400Server::GAT1400Server(std::string &url_){
+    cpr::Url url{url_};
+    session.SetUrl(url);
+    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
 }
 GAT1400Server::~GAT1400Server(){
     delete session;
 
 };
-GAT1400Server::Register(){
-    auto j = R"(
-        {
-            "RegisterObject":{
-                "DeviceID":"31000000001310910561"
-            },
-            "ProtocolVersion":"2.0"
-        }
-    )"_json;
+GAT1400Server::Register(std::string deviceid){
+    json j;
+	j["RegisterObject"]={"DeviceID",deviceid};
+	j["ProtocolVersion"]="2.0";
     std::string j_string = j.dump();
-    cpr::Url url{url_};
-    session.SetUrl(url);
     session.SetOption(cpr::Body{j_string});
-    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
     std::cout<<response.url<<std::endl;
@@ -48,18 +41,10 @@ GAT1400Server::Register(){
         std::cout<<"ERROR"<<std::endl;
 };
 GAT1400Server::Unregister(){
-    auto j = R"(
-        {
-            "RegisterObject":{
-                "DeviceID":"31000000001310910561"
-            },
-            "ProtocolVersion":"2.0"
-        }
-    )"_json;
+    json j;
+	j["RegisterObject"]={"DeviceID",deviceid};
+	j["ProtocolVersion"]="2.0";
     std::string j_string = j.dump();
-    cpr::Url url{url_};
-    session.SetUrl(url);
-    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     session.SetOption(cpr::Body{j_string});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
@@ -72,15 +57,10 @@ GAT1400Server::Unregister(){
         std::cout<<"ERROR"<<std::endl;
 };
 GAT1400Server::Keepalive(){
-    auto j = R"({
-        "KeepaliveObject":{
-            "DeviceID":"31000000001310910561"
-        }
-    })"_json;
+    json j;
+	j["RegisterObject"]={"DeviceID",deviceid};
+	j["ProtocolVersion"]="2.0";
     std::string j_string = j.dump();
-    cpr::Url url{url_};
-    session.SetUrl(url);
-    session.SetOption(cpr::Header{{"Content-Type","application/json;charset=utf-8"}});
     session.SetOption(cpr::Body{j_string});
     cpr::Response response = session.Post();
     std::cout<<response.text<<std::endl;
