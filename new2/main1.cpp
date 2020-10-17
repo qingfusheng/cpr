@@ -1,0 +1,63 @@
+#include<iostream>
+#include"json.hpp"
+using nlohmann::json;
+using namespace std;
+int main(){
+	auto j = R"(
+		{
+    		"MotorVehicleObject":[
+				{
+            		"SourceID":"31000000001310910561022020073116035500002",
+            		"MotorVehicleID":"310000000013109105610220200731160355000020200001",
+            		"InfoKind":1,
+            		"PlateNo":"",
+            		"PlateColor":"21",
+            		"PlateReliability":"70",
+            		"LeftTopX":0,
+            		"LeftTopY":0,
+            		"RightBtmX":60,
+            		"RightBtmY":30,
+            		"DeviceID":"31000000001310910561",
+            		"StorageUrl1":"http://47.111.82.206:6501/pic?=d88i3a6e*145i01c-775809-60d14b68eb1ce0i8b2*=2d5*40d9i*s1d=i1p6t=pe*m5i11=-19903c-30z2e3s=528dd6",
+            		"StorageUrl2":"http://47.111.82.206:6501/pic?=d88i3a6e*145i01c-775809-60d14b68eb1ce0i8b2*=2d5*40d9i*s1d=i1p6t=pe*m5i11=-19903c-30z2e3s=528dd6",
+            		"HasPlate":"1",
+            		"Speed":0,
+            		"PassTime":"20200731160355",
+            		"Sunvisor":0,
+            		"SafetyBelt":1,
+            		"Calling":0,
+            		"LaneNo":0,
+            		"BreakRuleMode":"",
+            		"VehicleClass":"K33",
+            		"VehicleColor":"14",
+            		"VehicleColorDepth":"1",
+            		"SubImageList":{
+                		"SubImageInfoObject":[
+                	    	{
+                	        	"ImageID":"31000000001310910561022020073116035500002",
+                	        	"StoragePath":"http://47.111.82.206:6501/pic?=d88i3a6e*145i01c-775809-60d14b68eb1ce0i8b2*=2d5*40d9i*s1d=i1p6t=pe*m5i11=-19903c-30z2e3s=528dd6",
+                	        	"FileFormat":"Jpeg",
+                	        	"ShotTime":"20200731160355",
+                	        	"Type":"1",
+                	        	"Width":480,
+                	        	"Height":270
+                	    	},
+                	    	{
+                	        	"ImageID":"310000000013109105610220200731160355",
+                	        	"StoragePath":"http://47.111.82.206:6501/pic?=d88i3a6e*145i01c-775809-60d14b68eb1ce0i8b2*=2d5*40d9i*s1d=i1p6t=pe*m5i11=-19903c-30z2e3s=528dd6",
+                	        	"FileFormat":"Jpeg",
+                	        	"ShotTime":"20200731160355",
+                	        	"Type":"2",
+                	        	"Width":128,
+                	        	"Height":96
+                	    	}
+                		]
+            		}
+        		}
+			]
+		}
+	)"_json;
+	string s = j.dump();
+	cout<<s<<endl;
+	cout<<j<<endl;
+} 
