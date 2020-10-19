@@ -26,7 +26,6 @@ GAT1400Server::~GAT1400Server(){ //析构
     delete session;
 
 };
-<<<<<<< HEAD
 GAT1400Server::Register(std::string deviceid){
     auto j = R"(
         {
@@ -37,12 +36,6 @@ GAT1400Server::Register(std::string deviceid){
         }
     )"_json;
     j["RegisterObject"]["DeviceID"]=deviceid;
-=======
-bool GAT1400Server::Register(std::string deviceid){
-    json j; //定义一个json串
-	j["RegisterObject"]={"DeviceID",deviceid};
-	j["ProtocolVersion"]="2.0";
->>>>>>> 25f86cbe72f84330fcd23b6d71c0ea23c728737d
     std::string j_string = j.dump();//将json串转换为字符串
     session->SetOption(cpr::Body{j_string});
     cpr::Response response = session->Post();
@@ -55,7 +48,6 @@ bool GAT1400Server::Register(std::string deviceid){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-<<<<<<< HEAD
 GAT1400Server::Unregister(std::string deviceid){
     auto j = R"(
         {
@@ -66,12 +58,6 @@ GAT1400Server::Unregister(std::string deviceid){
         }
     )"_json;
     j["RegisterObject"]["DeviceID"]=deviceid;
-=======
-bool GAT1400Server::Unregister(std::string deviceid){
-    json j;
-	j["RegisterObject"]={"DeviceID",deviceid};
-	j["ProtocolVersion"]="2.0";
->>>>>>> 25f86cbe72f84330fcd23b6d71c0ea23c728737d
     std::string j_string = j.dump();
     session->SetOption(cpr::Body{j_string});
     cpr::Response response = session->Post();
@@ -84,7 +70,6 @@ bool GAT1400Server::Unregister(std::string deviceid){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-<<<<<<< HEAD
 GAT1400Server::Keepalive(std::string deviceid){
     auto j = R"(
         {
@@ -95,12 +80,6 @@ GAT1400Server::Keepalive(std::string deviceid){
         }
     )"_json;
     j["RegisterObject"]["DeviceID"]=deviceid;
-=======
-bool GAT1400Server::Keepalive(std::string deviceid){
-    json j;
-	j["RegisterObject"]={"DeviceID",deviceid};
-	j["ProtocolVersion"]="2.0";
->>>>>>> 25f86cbe72f84330fcd23b6d71c0ea23c728737d
     std::string j_string = j.dump();
     session->SetOption(cpr::Body{j_string});
     cpr::Response response = session->Post();
