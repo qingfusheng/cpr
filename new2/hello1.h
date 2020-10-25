@@ -26,7 +26,7 @@ GAT1400Server::~GAT1400Server(){ //析构
     delete session;
 
 };
-GAT1400Server::Register(std::string deviceid){
+bool GAT1400Server::Register(std::string deviceid){
     auto j = R"(
         {
             "RegisterObject":{
@@ -48,7 +48,7 @@ GAT1400Server::Register(std::string deviceid){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-GAT1400Server::Unregister(std::string deviceid){
+bool GAT1400Server::Unregister(std::string deviceid){
     auto j = R"(
         {
             "RegisterObject":{
@@ -70,7 +70,7 @@ GAT1400Server::Unregister(std::string deviceid){
     else
         std::cout<<"ERROR"<<std::endl;
 };
-GAT1400Server::Keepalive(std::string deviceid){
+bool GAT1400Server::Keepalive(std::string deviceid){
     auto j = R"(
         {
             "RegisterObject":{
